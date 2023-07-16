@@ -1,0 +1,72 @@
+[
+    {
+        "color": "Black",
+        "shape": "Slim fit",
+        "size": "35",
+        "price": "2599",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "shape": "Slim fit",
+        "size": "36",
+        "price": "1599",
+        "image": ""
+    },
+    {
+        "color": "White",
+        "shape": "Slim fit",
+        "size": "38",
+        "price": "3199",
+        "image": ""
+    },
+    {
+        "color": "Blue",
+        "shape": "Slim fit",
+        "size": "36",
+        "price": "2599",
+        "image": ""
+    },
+    {
+        "color": "Black",
+        "shape": "Slim fit",
+        "size": "39",
+        "price": "3599",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "shape": "Slim fit",
+        "size": "36",
+        "price": "1599",
+        "image": ""
+    },
+    {
+        "color": "Black",
+        "shape": "Slim fit",
+        "size": "35",
+        "price": "2599",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "shape": "Slim fit",
+        "size": "36",
+        "price": "1599",
+        "image": ""
+    },
+    {
+        "color": "White",
+        "shape": "Slim fit",
+        "size": "38",
+        "price": "3199",
+        "image": ""
+    },
+    {
+        "color": "Blue",
+        "shape": "Slim fit",
+        "size": "36",
+        "price": "2599",
+        "image": ""
+    }
+]

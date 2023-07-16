@@ -1,0 +1,74 @@
+[ 
+        {
+           "color":"Black-solid",
+           "size":"35",
+           "price":"199",
+           "image":""
+       },
+    
+        {
+           "color":"WhiFormal",
+           "size":"36",
+           "price":"399",
+           "image":""
+        },
+        {
+           "color":"Red",
+           "size":"42",
+           "price":"249",
+           "image":""
+        },
+    
+        {
+           "color":"Dark-Green",
+           "size":"34",
+           "price":"349",
+           "image":""
+        },
+    
+    
+        {
+           "color":"Yellow",
+           "size":"38",
+           "price":"199",
+           "image":""
+        },
+
+
+    
+        {
+           "color":"Black-solid",
+           "size":"40",
+           "price":"199",
+           "image":""
+        },
+    
+    
+        {
+           "color":"WhiFormale",
+           "size":"36-40",
+           "price":"399",
+           "image":""
+        },
+    
+        {
+           "color":"Red",
+           "size":"32",
+           "price":"249",
+           "image":""
+        },
+    
+        {
+           "color":"Dark-Green",
+           "size":"38",
+           "price":"349",
+           "image":""
+        },
+    
+        {
+           "color":"Yellow",
+           "size":"40",
+           "price":"199",
+           "image":""
+        }
+    ]

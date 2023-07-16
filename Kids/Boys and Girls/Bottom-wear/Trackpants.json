@@ -1,0 +1,70 @@
+[
+   {
+      "color":"Black-solid",
+      "size":"10-15",
+      "price":"199",
+      "image":""
+   },
+
+   {
+      "color":"WhiFormale",
+      "size":"18",
+      "price":"399",
+      "image":""
+   },
+
+   {
+      "color":"Red",
+      "size":"12",
+      "price":"249",
+      "image":""
+   },
+
+   {
+      "color":"Dark-Green",
+      "size":"14",
+      "price":"349",
+      "image":""
+   },
+
+   {
+      "color":"Yellow",
+      "size":"8-15",
+      "price":"199",
+      "image":""
+   },
+
+   {
+      "color":"Black-solid",
+      "size":"4-16",
+      "price":"199",
+      "image":""
+   },
+   {
+      "color":"WhiFormale",
+      "size":"6-10",
+      "price":"399",
+      "image":""
+   },
+   {
+      "color":"Red",
+      "size":"12",
+      "price":"249",
+      "image":""
+   },
+
+   {
+      "color":"Dark-Green",
+      "size":"18",
+      "price":"349",
+      "image":""
+   },
+
+   {
+      "color":"Yellow",
+      "size":"10-15",
+      "price":"199",
+      "image":""
+   }
+
+]

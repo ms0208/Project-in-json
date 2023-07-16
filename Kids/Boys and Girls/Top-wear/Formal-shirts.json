@@ -1,0 +1,62 @@
+[
+    {
+        "color": "Black-solid",
+        "size": "S-M",
+        "price": "199",
+        "image": ""
+    },
+    {
+        "color": "WhiFormale",
+        "size": "S-L",
+        "price": "399",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "size": "S",
+        "price": "249",
+        "image": ""
+    },
+    {
+        "color": "Dark-Green",
+        "size": "S-M",
+        "price": "349",
+        "image": ""
+    },
+    {
+        "color": "Yellow",
+        "size": "S,M",
+        "price": "199",
+        "image": ""
+    },
+    {
+        "color": "Black-solid",
+        "size": "S",
+        "price": "199",
+        "image": ""
+    },
+    {
+        "color": "WhiFormale",
+        "size": "S-M",
+        "price": "399",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "size": "S,M,L",
+        "price": "249",
+        "image": ""
+    },
+    {
+        "color": "Dark-Green",
+        "size": "S",
+        "price": "349",
+        "image": ""
+    },
+    {
+        "color": "Yellow",
+        "size": "S,M",
+        "price": "199",
+        "image": ""
+    }
+]

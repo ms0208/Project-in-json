@@ -1,0 +1,72 @@
+[
+    {
+        "color": "Black",
+        "shape": "Solid and Puffer",
+        "size": "M",
+        "price": "1599",
+        "image": ""
+    },
+    {
+        "color": "grey",
+        "shape": "Solid",
+        "size": "XL",
+        "price": "2199",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "shape": "Corner & Solid",
+        "size": "XXL",
+        "price": "3199",
+        "image": ""
+    },
+    {
+        "color": "White",
+        "shape": "Solid",
+        "size": "S-XL",
+        "price": "999-2499",
+        "image": ""
+    },
+    {
+        "color": "Brown",
+        "shape": "Corner",
+        "size": "XXL",
+        "price": "2499",
+        "image": ""
+    },
+    {
+        "color": "Black",
+        "shape": "Solid and Puffer",
+        "size": "M",
+        "price": "1599",
+        "image": ""
+    },
+    {
+        "color": "grey",
+        "shape": "Solid",
+        "size": "XL",
+        "price": "2199",
+        "image": ""
+    },
+    {
+        "color": "Red",
+        "shape": "Corner & Solid",
+        "size": "XXL",
+        "price": "3199",
+        "image": ""
+    },
+    {
+        "color": "White",
+        "shape": "Solid",
+        "size": "S-XL",
+        "price": "999-2499",
+        "image": ""
+    },
+    {
+        "color": "Brown",
+        "shape": "Corner",
+        "size": "XXL",
+        "price": "2499",
+        "image": ""
+    }
+]

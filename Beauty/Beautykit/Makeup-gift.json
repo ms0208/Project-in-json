@@ -1,0 +1,29 @@
+{
+    "Make-up:gift":[
+    {
+        "type":"Skin-hair care",
+        "price":"299",
+        "wight":"200g"
+    },
+    {
+        "type":"Skin care",
+        "price":"699",
+        "wight":"300g"
+    },
+    {
+        "type":"Beauty-cream",
+        "price":"199",
+        "wight":"100g"
+    },
+    {
+        "type":"Fondation",
+        "price":"299",
+        "wight":"200g"
+    },
+    {
+        "type":"White-cream",
+        "price":"299",
+        "wight":"200g"
+    }
+]
+}

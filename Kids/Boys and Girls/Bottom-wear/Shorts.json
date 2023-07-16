@@ -1,0 +1,62 @@
+[
+   {
+       "color": "Black-solid",
+       "size":"1-6",
+       "price": "199",
+       "image": ""
+   },
+   {
+       "color": "WhiFormale",
+       "size": "6",
+       "price": "399",
+       "image": ""
+   },
+   {
+       "color": "Red",
+       "size": "5",
+       "price": "249",
+       "image": ""
+   },
+   {
+       "color": "Dark-Green",
+       "size": "4",
+       "price": "349",
+       "image": ""
+   },
+   {
+       "color": "Yellow",
+       "size": "5",
+       "price": "199",
+       "image": ""
+   },
+   {
+       "color": "Black-solid",
+       "size": "2",
+       "price": "199",
+       "image": ""
+   },
+   {
+       "color": "WhiFormale",
+       "size": "3",
+       "price": "399",
+       "image": ""
+   },
+   {
+       "color": "Red",
+       "size": "4",
+       "price": "249",
+       "image": ""
+   },
+   {
+       "color": "Dark-Green",
+       "size": "1",
+       "price": "349",
+       "image": ""
+   },
+   {
+       "color": "Yellow",
+       "size": "4",
+       "price": "199",
+       "image": ""
+   }
+]
